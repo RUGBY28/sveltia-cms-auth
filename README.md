@@ -1,3 +1,4 @@
+Relais de connexion du back-office Rugby28.
 # Sveltia CMS Authenticator
 
 This simple [Cloudflare Workers](https://workers.cloudflare.com/) script allows [Sveltia CMS](https://sveltiacms.app/en/) users to authenticate with GitHub through a [GitHub App](https://docs.github.com/en/apps/creating-github-apps/about-creating-github-apps/about-creating-github-apps).
